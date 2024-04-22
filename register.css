@@ -1,0 +1,296 @@
+*{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.register{
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -19pc;
+    color:  blue;
+    left: 17pc;
+
+}
+
+hr{
+
+    border-bottom: 2px solid blue;
+    border-bottom: 2px solid blue;
+    position: relative;
+    top: -19pc;
+    width: 652px;
+    left: 17pc;
+    display: flex;
+
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e7e7e7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.name{
+
+    position: relative;
+    right: 26pc;
+    color: #09000482;
+    top: -7pc;
+    font-family: monospace;
+    font-size: 23px;
+    display: flex;
+}
+
+.box{
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 32pc;
+    bottom: 98px;
+    height: 27px;
+    width: 230px;
+    border: 1px solid white;
+    border-radius: 9px;
+    border-color: black;
+}
+
+
+.heading{
+
+    position: relative;
+    left: 130px;
+    margin-right: 215px;
+    
+    
+}
+
+.box2{
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 32pc;
+    bottom: 44px;
+    height: 27px;
+    width: 230px;
+    border: 1px solid white;
+    border-radius: 9px;
+    border-color: black;
+}
+
+.email{
+
+    position: relative;
+    right: 26pc;
+    color: #09000482;
+    top: -56px;
+    font-family: monospace;
+    font-size: 23px;
+    display: flex;
+}
+
+.box3{
+
+    
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 32pc;
+    bottom: -14px;
+    height: 27px;
+    width: 230px;
+    border: 1px solid white;
+    border-radius: 9px;
+    border-color: black;
+}
+
+
+.password{
+
+    position: relative;
+    right: 27pc;
+    color: #09000482;
+    top: 1px;
+    font-family: monospace;
+    font-size: 23px;
+    display: flex;
+}
+
+.last-name{
+
+    position: relative;
+    right: 4pc;
+    color: #09000482;
+    top: -283px;
+    font-family: monospace;
+    font-size: 23px;
+    display: flex;
+}
+
+
+.box4{
+
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 122px;
+    bottom: 271px;
+    height: 27px;
+    width: 230px;
+    border: 1px solid white;
+    border-radius: 9px;
+    border-color: black;
+}
+
+
+.country{
+
+    position: relative;
+right: 4pc;
+color: #09000482;
+top: -226px;
+font-family: monospace;
+font-size: 23px;
+display: flex;
+}
+
+
+.box5{
+
+    border: 1px solid white;
+    border-radius: 9px;
+    border-color: black;
+    top: -215px;
+    left: -123px;
+    height: 27px;
+    width: 230px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+
+.align{
+
+    position: relative;
+    right: -4pc;
+    top: 42px;
+    
+
+}
+
+.month{
+        position: relative;
+        left: -35pc;
+        top: 8pc;
+        display: flex;
+        justify-content: center;
+        border: 1px solid white;
+        border-color: black;
+        height: 27px;
+        width: 56px;
+        border-radius: 8%;
+}
+
+
+.password1{
+
+    position: relative;
+    font-family: monospace;
+    font-size: 23px;
+    color: #09000482;
+    top: -171px;
+    right: 4pc;
+    display: flex;
+}
+
+
+.box6{
+        border: 1px solid white;
+        border-radius: 9px;
+        border-color: black;
+        height: 27px;
+        width: 230px;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        bottom: 156px;
+        right: 122px;
+}
+
+
+.choose{
+
+    position: relative;
+    right: 520px;
+    top: 144px;
+    border: 1px solid black;
+    border-radius: 7%;
+    height: 40px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.choose2{
+
+    position: relative;
+    right: 422px;
+    top: 104px;
+    border: 1px solid black;
+    border-radius: 7%;
+    height: 40px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.choose3{
+
+    position: relative;
+    right: 324px;
+    top: 64px;
+    border: 1px solid black;
+    border-radius: 7%;
+    height: 40px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.submit{
+
+    display: flex;
+justify-content: center;
+position: relative;
+right: 39pc;
+top: 15pc;
+border: 1px solid black;
+border-radius: 5%;
+height: 59px;
+width: 308px;
+background: deepskyblue;
+font-size: 29px;
+color: beige;
+cursor: pointer;
+}
+
+
+.check {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 39pc;
+    top: 19pc;
+    height: 26px;
+    font-size: larger;
+}
